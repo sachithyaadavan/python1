@@ -1,0 +1,12 @@
+x=int(input("Enter number 1  : " ))
+y=int(input("Enter number 2  : " ))
+print("Your first  number is   : ", x)
+print("Your second number is   : ", y)
+
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x**y)
+print(x%y)
+print(x//y)
